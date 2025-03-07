@@ -9,7 +9,19 @@ and are willing to talk about it!
 
 ## The Companies 💜
 
+- [ArcStone](https://www.arcstone.com/) - Digital agency specialising in WordPress websites, digital marketing, storytelling, support and hosting
+- [CroCoder](https://www.crocoder.dev/) - Web development consultancy delivering scalable solutions that drive real business impact
+- [HayHay](https://www.hayhayapp.se/) - AI horsecare assistant
+- [Kalvad](https://www.kalvad.com/) ([How they're using Gleam](https://blog.kalvad.com/unmasking-http-logs-from-blind-spots-to-full-visibility-with-gleam-and-quickwit/) - Global technology consulting and services company that specializes in building innovative data solutions
+- [Nambi Biolabs](https://nambi.ca/) - Fungal bioluminescent lighting systems
+- [Nestful](https://nestful.app/) ([How they're using Gleam](https://blog.nestful.app/p/why-i-rewrote-nestful-in-gleam)) - Minimal personal project management app
+- [nexum](https://www.nexum.com/en) - Digital consultancy
+- [Ottimizza](https://ottimizza.com.br/) - Accounting automation software
 - [Steerlab](https://www.steerlab.ai/) - Automated pre-sales and sales proposals
-- [Strand Communications](https://strand-uk.com) - Copywriting and content creation for enterprise technology companies 
+- [Strand Communications](https://strand-uk.com) - Copywriting and content creation for enterprise technology companies
+- [The University of North Carolina at Chapel Hill](https://www.unc.edu/) - Public research university in Carolina
+- [The University of Texas at Austin](https://www.utexas.edu/) - Public research university in Austin, Texas
+- [Uncover](https://www.uncover.co/) - Data-first Marketing Mix modelling using AI
+- USA Trade & Exports Inc. - Purchaser and exporter of trucks, trailers, heavy machinery and parts within the US and Latin America
 - [Williams & Holmes](https://www.williamsandholmes.com/) ([GitHub](https://github.com/williamsandholmes/williamsandholmes.com)) - Automating pricing communication and
   coordination in the US beverage industry
