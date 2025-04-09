@@ -12,7 +12,7 @@ and are willing to talk about it!
 - [ArcStone](https://www.arcstone.com/) - Digital agency specialising in WordPress websites, digital marketing, storytelling, support and hosting
 - [CroCoder](https://www.crocoder.dev/) - Web development consultancy delivering scalable solutions that drive real business impact
 - [HayHay](https://www.hayhayapp.se/) - AI horsecare assistant
-- [Kalvad](https://www.kalvad.com/) ([How they're using Gleam](https://blog.kalvad.com/unmasking-http-logs-from-blind-spots-to-full-visibility-with-gleam-and-quickwit/) - Global technology consulting and services company that specializes in building innovative data solutions
+- [Kalvad](https://www.kalvad.com/) ([How they're using Gleam](https://blog.kalvad.com/unmasking-http-logs-from-blind-spots-to-full-visibility-with-gleam-and-quickwit/)) - Global technology consulting and services company that specializes in building innovative data solutions
 - [Nambi Biolabs](https://nambi.ca/) - Fungal bioluminescent lighting systems
 - [Nestful](https://nestful.app/) ([How they're using Gleam](https://blog.nestful.app/p/why-i-rewrote-nestful-in-gleam)) - Minimal personal project management app
 - [nexum](https://www.nexum.com/en) - Digital consultancy
