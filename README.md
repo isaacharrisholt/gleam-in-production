@@ -17,6 +17,7 @@ and are willing to talk about it!
 - [Nestful](https://nestful.app/) ([How they're using Gleam](https://blog.nestful.app/p/why-i-rewrote-nestful-in-gleam)) - Minimal personal project management app
 - [nexum](https://www.nexum.com/en) - Digital consultancy
 - [Ottimizza](https://ottimizza.com.br/) - Accounting automation software
+- [Rover](https://getrover.com) - Software reliability platform for fast-moving teams
 - [Steerlab](https://www.steerlab.ai/) - Automated pre-sales and sales proposals
 - [Strand Communications](https://strand-uk.com) - Copywriting and content creation for enterprise technology companies
 - [The University of North Carolina at Chapel Hill](https://www.unc.edu/) - Public research university in Carolina
