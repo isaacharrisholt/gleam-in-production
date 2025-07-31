@@ -22,6 +22,7 @@ and are willing to talk about it!
 - [The Simon Initiative - Carnegie Mellon University](https://www.cmu.edu/simon/) ([How they're using Gleam](https://github.com/Simon-Initiative/lti-example-tool)) - A cross-disciplinary learning engineering ecosystem that has developed over several decades at Carnegie Mellon
 - [Steerlab](https://www.steerlab.ai/) - Automated pre-sales and sales proposals
 - [Strand Communications](https://strand-uk.com) - Copywriting and content creation for enterprise technology companies
+- [Surtoget](https://surtoget.no/) - Information, stats, and complaints about the Sørlandsbanen train
 - [The University of North Carolina at Chapel Hill](https://www.unc.edu/) - Public research university in North Carolina
 - [The University of Texas at Austin](https://www.utexas.edu/) - Public research university in Austin, Texas
 - [Uncover](https://www.uncover.co/) - Data-first Marketing Mix modelling using AI
