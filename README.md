@@ -29,3 +29,4 @@ and are willing to talk about it!
 - USA Trade & Exports Inc. - Purchaser and exporter of trucks, trailers, heavy machinery and parts within the US and Latin America
 - [Williams & Holmes](https://www.williamsandholmes.com/) ([GitHub](https://github.com/williamsandholmes/williamsandholmes.com)) - Automating pricing communication and
   coordination in the US beverage industry
+- [Helen's Shop](https://latiendadehelen.com/) - E-commerce platform for handmade and artisanal crafts from Spain
