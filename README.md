@@ -14,13 +14,13 @@ and are willing to talk about it!
 - [Fostrom](https://fostrom.io/) - IoT cloud platform built for developers
 - [HayHay](https://www.hayhayapp.se/) - AI horsecare assistant
 - [Kalvad](https://www.kalvad.com/) ([How they're using Gleam](https://blog.kalvad.com/unmasking-http-logs-from-blind-spots-to-full-visibility-with-gleam-and-quickwit/)) - Global technology consulting and services company that specializes in building innovative data solutions
+- [Medfin](https://medfin.ai) - The data layer for UK dentistry
 - [Nambi Biolabs](https://nambi.ca/) - Fungal bioluminescent lighting systems
 - [Nestful](https://nestful.app/) ([How they're using Gleam](https://blog.nestful.app/p/why-i-rewrote-nestful-in-gleam)) - Minimal personal project management app
 - [nexum](https://www.nexum.com/en) - Digital consultancy
 - [Numenon](https://about.numenon.app/) - Knowledge base management system
 - [Ottimizza](https://ottimizza.com.br/) - Accounting automation software
 - [Questel](https://www.questel.com/) - Intellectual property management platform
-- [Rover](https://getrover.com) - Software reliability platform for fast-moving teams
 - [The Simon Initiative - Carnegie Mellon University](https://www.cmu.edu/simon/) ([How they're using Gleam](https://github.com/Simon-Initiative/lti-example-tool)) - A cross-disciplinary learning engineering ecosystem that has developed over several decades at Carnegie Mellon
 - [Steerlab](https://www.steerlab.ai/) - Automated pre-sales and sales proposals
 - [Strand Communications](https://strand-uk.com) ([Case study](https://gleam.run/case-studies/strand/)) - Copywriting and content creation for enterprise technology companies
