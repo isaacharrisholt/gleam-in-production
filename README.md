@@ -21,6 +21,7 @@ and are willing to talk about it!
 - [Numenon](https://about.numenon.app/) - Knowledge base management system
 - [Ottimizza](https://ottimizza.com.br/) - Accounting automation software
 - [Questel](https://www.questel.com/) - Intellectual property management platform
+- [Santomot](https://santomot.com/en/) - An e-commerce for MTG custom cards by the artist Santomot
 - [The Simon Initiative - Carnegie Mellon University](https://www.cmu.edu/simon/) ([How they're using Gleam](https://github.com/Simon-Initiative/lti-example-tool)) - A cross-disciplinary learning engineering ecosystem that has developed over several decades at Carnegie Mellon
 - [Steerlab](https://www.steerlab.ai/) - Automated pre-sales and sales proposals
 - [Strand Communications](https://strand-uk.com) ([Case study](https://gleam.run/case-studies/strand/)) - Copywriting and content creation for enterprise technology companies
@@ -31,4 +32,3 @@ and are willing to talk about it!
 - USA Trade & Exports Inc. - Purchaser and exporter of trucks, trailers, heavy machinery and parts within the US and Latin America
 - [Williams & Holmes](https://www.williamsandholmes.com/) ([GitHub](https://github.com/williamsandholmes/williamsandholmes.com)) - Automating pricing communication and
   coordination in the US beverage industry
-- [Helen's Shop](https://latiendadehelen.com/) - E-commerce platform for handmade and artisanal crafts from Spain
