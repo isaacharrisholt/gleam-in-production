@@ -12,6 +12,7 @@ and are willing to talk about it!
 - [ArcStone](https://www.arcstone.com/) - Digital agency specialising in WordPress websites, digital marketing, storytelling, support and hosting
 - [CroCoder](https://www.crocoder.dev/) - Web development consultancy delivering scalable solutions that drive real business impact
 - [Fostrom](https://fostrom.io/) - IoT cloud platform built for developers
+- [Goaty Football](https://goatyfootball.com/) - A football matchmaking application for neighbourhood games. Fullstack Gleam using Wisp and Lustre, with server components for the matches and other realtime parts of the application
 - [HayHay](https://www.hayhayapp.se/) - AI horsecare assistant
 - [Kalvad](https://www.kalvad.com/) ([How they're using Gleam](https://blog.kalvad.com/unmasking-http-logs-from-blind-spots-to-full-visibility-with-gleam-and-quickwit/)) - Global technology consulting and services company that specializes in building innovative data solutions
 - [Medfin](https://medfin.ai) - The data layer for UK dentistry
